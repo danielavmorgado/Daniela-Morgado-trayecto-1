@@ -1,0 +1,32 @@
+<!<!DOCTYPE html>
+<html>
+<head>
+       <title>Danusa Clothes</title>
+       <link rel="stylesheet" type="text/css" href="estilos_basica.css">
+</head>
+
+<body>
+     <div class="container">
+         <nav>
+             <ul>
+                 <li>Inicio</li>
+                 <li>Deportivo</li>
+                 <li>Tops</li>
+                 <li>Caballero</li>
+             </ul> 
+         </nav>
+         <header>
+             <img src="https://images.app.goo.gl/ZUY6QsJz2RHn4QyL7"   
+             <h1>Tops</h1>
+             <h2> Danusa Clothes</h2>
+             <p>Consigue una gran variedad de modelos y prendas de vestir por un excelente precio.
+             </p>
+             <p>1 top 5$
+                3 tops 12$
+                5 tops 20$
+             </p>
+             <button>Más información <ing src="wa.me/584243357675" alt=""></button>
+          </header>
+          
+   </body>
+   </html>            #ff9c27b0
